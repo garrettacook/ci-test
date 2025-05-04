@@ -1,0 +1,9 @@
+{
+  "key": "value",
+  "list": [
+    "first",
+    "second",
+    "third"
+  ],
+  "number": 3.14
+}
